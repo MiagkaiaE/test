@@ -1,13 +1,13 @@
-[rsschool-cv](https://miagkaiae.github.io/test/)
-***
 # Miagkaia Elena
 ### Junior Frontend Developer
-***
-#### Contact information:
+
+---
+### Contact information:
 * Phone: +7 985 3501854
 * E-mail: miagkaia.e@gmail.com
 * Telegram: @lena_miagkaia
-***
+---
+
 ### Skills
 - **Technical Skills**:  
   - HTML, CSS, JavaScript (beginner, actively learning)  
@@ -17,7 +17,7 @@
   - **Communication**: Effectively collaborate with teams and share ideas clearly.  
   - **Fast Learner**: Quickly grasp new concepts and technologies, applying them to practical tasks.  
 - **Languages**: English (Basic), Russian (Native)
-***
+---
 ### Code Example
 ```
 const accordionButtons = document.querySelectorAll('.accordion-item');
@@ -35,14 +35,17 @@ for (let button of accordionButtons) {
 	});
 }
 ```
-***
+
+---
 ### Summary
 As an aspiring Front-End Developer, I am passionate about creating user-friendly and visually appealing web applications. My goal is to contribute to innovative projects by leveraging my strong learning ability and enthusiasm for mastering modern web technologies like HTML, CSS, and JavaScript. I prioritize continuous growth, collaboration, and delivering high-quality solutions. With a proactive mindset, I am eager to dive into new challenges, quickly adapt to emerging technologies, and build a strong foundation in front-end development.
-***
+
+---
 ### Experience
 [Project Task list](https://miagkaiae.github.io/Task-List/)  
 [Link to the project repository](https://github.com/MiagkaiaE/Task-List)
-***
+
+---
 ### Courses
 - **Completed**:
   - [Introduction to JavaScript: Beginners Course](https://stepik.org/180784), 325/325 points
