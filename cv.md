@@ -6,8 +6,8 @@
 * Phone: +7 985 3501854
 * E-mail: miagkaia.e@gmail.com
 * Telegram: @lena_miagkaia
----
 
+---
 ### Skills
 - **Technical Skills**:  
   - HTML, CSS, JavaScript (beginner, actively learning)  
@@ -17,8 +17,10 @@
   - **Communication**: Effectively collaborate with teams and share ideas clearly.  
   - **Fast Learner**: Quickly grasp new concepts and technologies, applying them to practical tasks.  
 - **Languages**: English (Basic), Russian (Native)
+
 ---
 ### Code Example
+
 ```
 const accordionButtons = document.querySelectorAll('.accordion-item');
 console.log(accordionButtons);
@@ -34,6 +36,7 @@ for (let button of accordionButtons) {
 		button.parentElement.classList.toggle('active');
 	});
 }
+
 ```
 
 ---
